@@ -6,13 +6,13 @@
     --main-gray: #303841;
 }
 
-/* Base reset */
+/* Base reset Styling */
 * {
     margin: 0;
     padding: 0;
 }
 
-/* box-sizing and font sizing */
+/* box-sizing and font sizing Styling*/
 *,
 *::before,
 *::after {
@@ -106,7 +106,7 @@ img {
     width: 100%;
 }
 
-/* nav */
+/* nav Styling*/
 
 .nav {
     display: flex;
@@ -145,7 +145,7 @@ img {
     background: var(--main-blue);
 }
 
-/* Welcome section */
+/* Welcome section Styling */
 
 .welcome-section {
     display: flex;
@@ -165,7 +165,7 @@ img {
     color: var(--main-red);
 }
 
-/* Projects section */
+/* Projects section Styling */
 
 .projects-section {
     text-align: center;
@@ -258,7 +258,7 @@ img {
     transition: transform 0.3s ease-out;
 }
 
-/* Contact section */
+/* Contact section Styling */
 
 .contact-section {
     display: flex;
